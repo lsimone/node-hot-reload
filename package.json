@@ -1,0 +1,20 @@
+{
+  "name": "node-hot-reload",
+  "version": "0.0.1",
+  "description": "node hot reload imports without rebooting the whole application",
+  "main": "index.js",
+  "dependencies": {
+    "chokidar": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "hot",
+    "reload"
+  ],
+  "author": "loris32",
+  "license": "ISC"
+}
